@@ -27,7 +27,7 @@ int main()
     cin >> Tinggi;
     luas = Alas * Tinggi / 2;
     cout << "Luasnya =" << luas;
-    int panjang, lebar, luas
+    int panjang, lebar, luas;
 }
      
 
